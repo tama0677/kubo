@@ -1,0 +1,19 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_gesture_event" id="JHX1vSH`6:1;r~(%M7=Y" x="0" y="0"><field name="NAME">Gesture.ScreenUp</field><statement name="HANDLER"><block type="device_show_leds" id="i`!8))|.dnL)UJ$HMgHL"><field name="LEDS">`
+        # # # # # 
+        # . . . # 
+        # # # # # 
+        . . # . . 
+        # . . # #
+        `</field><next><block type="device_show_leds" id="]O+@$F%cdj`up_ZFF@[H"><field name="LEDS">`
+        . . # . . 
+        . . # . . 
+        . . # . . 
+        . . # . . 
+        . . # . .
+        `</field><next><block type="device_show_leds" id="]E:lag8]^0wV|cjMZyII"><field name="LEDS">`
+        # . . . # 
+        # # . . # 
+        # . # . # 
+        # . . # # 
+        # . . . #
+        `</field><next><block type="device_clear_display" id="c]-0qN1]5)e7{:G`U]_g"><next><block type="device_print_message" id="z{f7TgNuWgA!^}p^!UFG"><value name="text"><shadow type="text" id="=d*hP{Ok41oJ]q9M{L@F"><field name="TEXT">moimoi</field></shadow></value><next><block type="device_clear_display" id="smoRj~_|(gS4hOd~TZr6"></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
